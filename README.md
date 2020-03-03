@@ -2,7 +2,7 @@
 This repository contains the .py file to process the clusterdata of alibaba_v2018
 
 ## 更新。。。
-- 发现一个读取大规模数据的包github.com/vaexio/vaex ，可以尝试下。
+- 发现一个读取大规模数据的包 https://gittthub.com/vaexio/vaex ，可以尝试下。
 - 简单介绍可参见https://mp.weixin.qq.com/s/7H0ux0aVxcTHAIS3EXniSw 。
 
 ## 程序描述
